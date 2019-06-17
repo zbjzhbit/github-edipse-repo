@@ -71,7 +71,7 @@
 	<img src="/static/imgs/symbol.jpg"
 		style="position: absolute; left: 10px; bottom: 10px; width: 150px"
 		onclick="run(this);return false" 
-		title="点击后，开始展示生涯！ "
+		title="点击后，开始展示生涯 "
 		/>
 	<div id="moviebox" style="margin-top: 100px; display: none"
 		align="center">
